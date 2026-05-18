@@ -7,7 +7,7 @@
   ╚═══╝    ╚═════╝  ╚══════╝ ╚═╝  ╚═══╝ ╚═╝       ╚═════╝  ╚═╝  ╚═╝  ╚═════╝  ╚══════╝
 ```
 
-[![Cybersecurity Projects](https://img.shields.io/badge/Cybersecurity--Projects-Project%20%2311-red?style=flat&logo=github)](https://github.com/Kiliankm19/vulnforge)
+[![Cybersecurity Projects](https://img.shields.io/badge/Cybersecurity--Projects-red?style=flat&logo=github)](https://github.com/Kiliankm19/vulnforge)
 [![Go](https://img.shields.io/badge/Go-1.24+-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
 [![License: AGPLv3](https://img.shields.io/badge/License-AGPL_v3-purple.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Kiliankm19/vulnforge)](https://goreportcard.com/report/github.com/Kiliankm19/vulnforge)
@@ -58,9 +58,3 @@ This project includes step-by-step learning materials covering security theory, 
 | [01 - Concepts](learn/01-CONCEPTS.md) | Security theory and real-world breaches |
 | [02 - Architecture](learn/02-ARCHITECTURE.md) | System design and data flow |
 | [03 - Implementation](learn/03-IMPLEMENTATION.md) | Code walkthrough |
-| [04 - Challenges](learn/04-CHALLENGES.md) | Extension ideas and exercises |
-
-
-## License
-
-AGPL 3.0

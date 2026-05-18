@@ -119,7 +119,6 @@ VulnForge/
 1. **Understand the concepts** - Read [01-CONCEPTS.md](./01-CONCEPTS.md) to learn about supply chain security, CVE databases, and version resolution
 2. **Study the architecture** - Read [02-ARCHITECTURE.md](./02-ARCHITECTURE.md) to see how PyPI caching, concurrent requests, and vulnerability scanning fit together
 3. **Walk through the code** - Read [03-IMPLEMENTATION.md](./03-IMPLEMENTATION.md) for line-by-line explanations of the PEP 440 parser, cache system, and regex-based file updates
-4. **Extend the project** - Read [04-CHALLENGES.md](./04-CHALLENGES.md) for ideas like adding SBOM generation, transitive dependency scanning, or custom vulnerability sources
 
 ## Common Issues
 
